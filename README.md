@@ -1,5 +1,7 @@
-## Hey!! Eu sou o Tonny Francis
--📜 Estutando C++ e Python
+## Hi!! Eu sou Tonny Francis
+- Estudante de Engenharia de Controle e Automação | UFRJ | 
+- Membro de Eletrônica na UFRJ Nautilus
+- Estudando Desenvolvimento de Interfaces Gráficas com Python
 
  <div>
   <a href="https://github.com/Tonny-Francis">
