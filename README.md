@@ -1,7 +1,7 @@
 ## Hi!! Eu sou Tonny Francis
 - Estudante de Engenharia de Controle e Automação | UFRJ | 
 - Membro de Eletrônica na UFRJ Nautilus
-- Estudando Desenvolvimento de Interfaces Gráficas com Python
+- Estudando JavaScript e HTML/CSS
 
  <div>
   <a href="https://github.com/Tonny-Francis">
