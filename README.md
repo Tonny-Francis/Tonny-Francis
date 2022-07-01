@@ -13,6 +13,9 @@
   <img align="center" alt="Tonny-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tonny-C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Tonny-C++" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Tonny-JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Tonny-HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Tonny-CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
 </div>
 
 ##
