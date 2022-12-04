@@ -1,7 +1,8 @@
 ## Hi!! Eu sou Tonny Francis
 - Estudante de Engenharia de Controle e Automação | UFRJ | 
 - Membro de Eletrônica na UFRJ Nautilus
-- Estudando JavaScript e HTML/CSS
+- Desenvolvedor Web na Convem Stores
+- Estudando Framework Angular e MySQL
 
  <div>
   <a href="https://github.com/Tonny-Francis">
