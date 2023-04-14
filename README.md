@@ -2,7 +2,7 @@
 - Estudante de Engenharia de Controle e Automação | UFRJ | 
 - Membro de Eletrônica na UFRJ Nautilus
 - Desenvolvedor Web na Convem Stores
-- Estudando Framework Angular e MySQL
+- Estudando React e Docker
 
  <div>
   <a href="https://github.com/Tonny-Francis">
