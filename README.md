@@ -1,31 +1,22 @@
-## Hi!! Eu sou Tonny Francis
-- Estudante de Engenharia de Controle e Automação | UFRJ | 
-- Membro de Eletrônica na UFRJ Nautilus
-- Desenvolvedor Web na Convem Stores
-- Estudando React e Docker
-
- <div>
-  <a href="https://github.com/Tonny-Francis">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Tonny-Francis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonny-Francis&layout=compact&langs_count=7&theme=radical"/>
+<div>
+ <img src="https://user-images.githubusercontent.com/81640351/232176432-a218fd9f-a8c5-4a18-a451-3ad98203fd2b.png">
+ <div align="center">
+  <a href = "mailto:tonnyfrancis161@poli.ufrj.br">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/tonny-francis/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+    <a href="https://api.whatsapp.com/send/?phone=%2B5521973783765&text&type=phone_number&app_absent=0">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_tonnyfr/">
+   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
  </div>
+ <div align="center"> 
  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Tonny-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tonny-C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Tonny-C++" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Tonny-JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Tonny-HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Tonny-CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+ ![Snake animation](https://github.com/Tonny-Francis/Tonny-Francis/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
 </div>
-
-##
-  
-<div> 
-  <a href = "mailto:tonnyfrancis161@poli.ufrj.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tonny-francis-ba2449207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-![Snake animation](https://github.com/Tonny-Francis/Tonny-Francis/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
