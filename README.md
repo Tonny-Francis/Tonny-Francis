@@ -1,6 +1,12 @@
+## Hi, I'm Tonny
+
+### About Me
+
+Hello, I am a technology enthusiast and full-stack developer, passionate about programming. Currently, I am part of the development team at [Convem](https://www.linkedin.com/company/convem-fintech)
+
+I dedicate my time to learning and constant improvement as a Systems Analysis and Development student.
+
 <div>
- <img src="https://user-images.githubusercontent.com/81640351/232176432-a218fd9f-a8c5-4a18-a451-3ad98203fd2b.png">
- <div align="center">
   <a href = "mailto:tonnyfrancis161@poli.ufrj.br">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -13,10 +19,11 @@
   <a href="https://www.instagram.com/_tonnyfr/">
    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
- </div>
- <div align="center"> 
- 
- ![Snake animation](https://github.com/Tonny-Francis/Tonny-Francis/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
 </div>
+
+### Skills & Technologies
+
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,angular,css,docker,golang,git,gitlab,html,javascript,mysql,nodejs,python,react,next,typescript">
+</div>
+
